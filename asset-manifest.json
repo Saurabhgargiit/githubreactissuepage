@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/githubreactissuepage/static/css/main.974e1f6a.css",
+    "main.js": "/githubreactissuepage/static/js/main.be3d282c.js",
+    "index.html": "/githubreactissuepage/index.html",
+    "main.974e1f6a.css.map": "/githubreactissuepage/static/css/main.974e1f6a.css.map",
+    "main.be3d282c.js.map": "/githubreactissuepage/static/js/main.be3d282c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.974e1f6a.css",
+    "static/js/main.be3d282c.js"
+  ]
+}
